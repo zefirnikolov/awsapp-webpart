@@ -70,7 +70,7 @@
 <body>
     <header>
         <h2>Randomly Generated TEXT!!!</h2>
-        <h5>The power of random! Refresh in 1 minute and see it!</h5>
+        <h5>The power of random! Refresh in a minute and see it!</h5>
     </header>
     <main>
         <div class="image-container">
