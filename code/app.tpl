@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Randomly generated text</title>
+    <title>Random TEXT Generator!!!</title>
     <meta name="description" content="Discover randomly generated text">
     <meta name="author" content="Johnny Cash">
     <style>
