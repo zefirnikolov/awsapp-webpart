@@ -65,12 +65,17 @@
             height: auto;
             max-height: 700px;
         }
+        .small-text {
+            font-size: 0.8em;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
     <header>
         <h2>Random TEXT Generator!!!</h2>
         <h5>The power of random! Refresh in a minute and see it!</h5>
+        <p class="small-text">(Also see the little Build print on the bottom of the page ;))</p>
     </header>
     <main>
         <div class="image-container">
