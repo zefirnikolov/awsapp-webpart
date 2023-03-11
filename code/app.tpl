@@ -24,12 +24,6 @@
             margin-top: 10px;
             margin-bottom: 20px;
         }
-        h6 {
-            text-align: center;
-            font-size: 16px;
-            margin-top: 10px;
-            margin-bottom: 20px;
-        }
         ul {
             list-style: none;
             margin: 0;
@@ -77,7 +71,6 @@
     <header>
         <h2>Random TEXT Generator!!!</h2>
         <h5>The power of random! Refresh in a minute and see it!</h5>
-        <h6>Also see the little Build print on the bottom of the page ;)</h6>
     </header>
     <main>
         <div class="image-container">
