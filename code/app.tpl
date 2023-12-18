@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Random TEXT Generator!!!!!!</title>
+    <title>Random TEXT Generator!</title>
     <meta name="description" content="Discover randomly generated text">
     <meta name="author" content="Johnny Cash">
     <style>
@@ -69,7 +69,7 @@
 </head>
 <body>
     <header>
-        <h2>Random TEXT Generator!!!</h2>
+        <h2>Random TEXT Generator!!!!!!</h2>
         <h5>The power of random!! Refresh in a minute and see it!</h5>
     </header>
     <main>
