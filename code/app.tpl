@@ -69,7 +69,7 @@
 </head>
 <body>
     <header>
-        <h2>Random TEXT Generator!!!!!!</h2>
+        <h2>Random TEXT Generator!</h2>
         <h5>The power of random!! Refresh in a minute and see it!</h5>
     </header>
     <main>
