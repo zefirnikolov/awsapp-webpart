@@ -69,8 +69,8 @@
 </head>
 <body>
     <header>
-        <h2>Random TEXT Generator!!!</h2>
-        <h5>The power of random!! Refresh in a minute and see it!</h5>
+        <h2>Random NEWS Generator!!!</h2>
+        <h5>Demonstration Headlines. Refreshes periodically!</h5>
     </header>
     <main>
         <div class="image-container">
